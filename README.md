@@ -64,7 +64,7 @@ We use MySQL basics that our prof send to us to learn proper code and execute th
 ![image alt](https://github.com/CarlosA012/Finals-Lab-Task-1/blob/78a1878a098fb3b8ab92e5ed83c7b047ed36a0c1/images/employee%20project%20table%20structure.png)
 
 ## managers table structure
-![image alt]()
+![image alt](https://github.com/CarlosA012/Finals-Lab-Task-1/blob/fb13833f646c83dc48f6270845900dad64f50789/images/manager%20table%20struccture.png)
 
 # ERD of Task 1
 ![image alt](https://github.com/CarlosA012/Finals-Lab-Task-1/blob/71214cef863d651ea93293d81a2e1c1e3e517b12/images/task1%20erd.png)
