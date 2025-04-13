@@ -31,7 +31,19 @@ We use MySQL basics that our prof send to us to learn proper code and execute th
 
 
 
-# Table Structures
+# Query Statements
 
-## 1st Structure is to create employee table
+## 1st is to create employee table
+![image alt](https://github.com/CarlosA012/Finals-Lab-Task-1/blob/91bf858565e5dc834373ac1b3210d871913af4d4/images/create%20employee%20table.png)
+
+## 2nd is to create department table
+![image alt]()
+
+## 3rd is to create employee department table
+![image alt]()
+
+## 4th is to create employee project table
+![image alt]()
+
+## 5th is to create managers table
 ![image alt]()
