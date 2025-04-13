@@ -28,3 +28,9 @@ We use MySQL basics that our prof send to us to learn proper code and execute th
 
 - Define manager_id as a unique integer, auto-increment, and primary key.
 - Define employee_id as an integer, which will be a foreign key referencing employee_id in the employees table.
+
+
+
+# Table Structures
+
+## 1st Structure is to create employee table
