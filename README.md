@@ -34,3 +34,4 @@ We use MySQL basics that our prof send to us to learn proper code and execute th
 # Table Structures
 
 ## 1st Structure is to create employee table
+![image alt]()
