@@ -52,16 +52,19 @@ We use MySQL basics that our prof send to us to learn proper code and execute th
 # Table Structures
 
 ## employee table structure
-![image alt]()
+![image alt](https://github.com/CarlosA012/Finals-Lab-Task-1/blob/78a1878a098fb3b8ab92e5ed83c7b047ed36a0c1/images/employee%20table%20structure.png)
 
 ## departments table
-![image alt]()
+![image alt](https://github.com/CarlosA012/Finals-Lab-Task-1/blob/78a1878a098fb3b8ab92e5ed83c7b047ed36a0c1/images/departments%20table%20structure.png)
 
 ## employee departments table
-![image alt]()
+![image alt](https://github.com/CarlosA012/Finals-Lab-Task-1/blob/78a1878a098fb3b8ab92e5ed83c7b047ed36a0c1/images/employee%20departments%20table%20structure.png)
 
 ## employee project table
-![image alt]()
+![image alt](https://github.com/CarlosA012/Finals-Lab-Task-1/blob/78a1878a098fb3b8ab92e5ed83c7b047ed36a0c1/images/employee%20project%20table%20structure.png)
 
 ## managers table
+![image alt](https://github.com/CarlosA012/Finals-Lab-Task-1/blob/78a1878a098fb3b8ab92e5ed83c7b047ed36a0c1/images/manager%20table%20structure.png)
+
+# ERD of Task 1
 ![image alt]()
