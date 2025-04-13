@@ -47,3 +47,21 @@ We use MySQL basics that our prof send to us to learn proper code and execute th
 
 ## 5th step is to create managers table
 ![image alt](https://github.com/CarlosA012/Finals-Lab-Task-1/blob/9cf4c4f158aebef3e0820c5818fc8d76957be324/images/create%20managers%20table.png)
+
+
+# Table Structures
+
+## employee table structure
+![image alt]()
+
+## departments table
+![image alt]()
+
+## employee departments table
+![image alt]()
+
+## employee project table
+![image alt]()
+
+## managers table
+![image alt]()
