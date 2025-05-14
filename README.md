@@ -34,37 +34,39 @@ We use MySQL basics that our prof send to us to learn proper code and execute th
 # Query Statements
 
 ## 1st step is to create employee table
-![image alt](https://github.com/CarlosA012/Finals-Lab-Task-1/blob/91bf858565e5dc834373ac1b3210d871913af4d4/images/create%20employee%20table.png)
+<img src="images/create employee table.png" alt="Alt Text" width="400">
 
 ## 2nd step is to create department table
-![image alt](https://github.com/CarlosA012/Finals-Lab-Task-1/blob/9cf4c4f158aebef3e0820c5818fc8d76957be324/images/create%20departments%20table.png)
+<img src="images/create departments table.png" alt="Alt Text" width="400">
 
 ## 3rd step is to create employee department table
-![image alt](https://github.com/CarlosA012/Finals-Lab-Task-1/blob/9cf4c4f158aebef3e0820c5818fc8d76957be324/images/create%20employee%20department%20table.png )
+<img src="images/create employee department table.png" alt="Alt Text" width="450">
 
 ## 4th step is to create employee project table
-![image alt](https://github.com/CarlosA012/Finals-Lab-Task-1/blob/9cf4c4f158aebef3e0820c5818fc8d76957be324/images/create%20employee%20project%20table.png )
+<img src="images/create employee project table.png" alt="Alt Text" width="450">
 
 ## 5th step is to create managers table
-![image alt](https://github.com/CarlosA012/Finals-Lab-Task-1/blob/9cf4c4f158aebef3e0820c5818fc8d76957be324/images/create%20managers%20table.png)
+<img src="images/create managers table.png" alt="Alt Text" width="450">
 
 
 # Table Structures
 
 ## employee table structure
-![image alt](https://github.com/CarlosA012/Finals-Lab-Task-1/blob/78a1878a098fb3b8ab92e5ed83c7b047ed36a0c1/images/employee%20table%20structure.png)
+<img src="images/employee table structure.png" alt="Alt Text" width="450">
 
 ## departments table structure
-![image alt](https://github.com/CarlosA012/Finals-Lab-Task-1/blob/78a1878a098fb3b8ab92e5ed83c7b047ed36a0c1/images/departments%20table%20structure.png)
+<img src="images/departments table structure.png" alt="Alt Text" width="450">
 
 ## employee departments table structure
-![image alt](https://github.com/CarlosA012/Finals-Lab-Task-1/blob/78a1878a098fb3b8ab92e5ed83c7b047ed36a0c1/images/employee%20departments%20table%20structure.png)
+
+<img src="images/employee departments table structure.png" alt="Alt Text" width="450">
 
 ## employee project table structure
-![image alt](https://github.com/CarlosA012/Finals-Lab-Task-1/blob/78a1878a098fb3b8ab92e5ed83c7b047ed36a0c1/images/employee%20project%20table%20structure.png)
+<img src="images/employee project table structure.png" alt="Alt Text" width="450">
 
 ## managers table structure
-![image alt](https://github.com/CarlosA012/Finals-Lab-Task-1/blob/fb13833f646c83dc48f6270845900dad64f50789/images/manager%20table%20struccture.png)
+
+<img src="images/manager table struccture.png" alt="Alt Text" width="450">
 
 # ERD of Task 1
-![image alt](https://github.com/CarlosA012/Finals-Lab-Task-1/blob/71214cef863d651ea93293d81a2e1c1e3e517b12/images/task1%20erd.png)
+<img src="images/task1 erd.png" alt="Alt Text" width="450">
